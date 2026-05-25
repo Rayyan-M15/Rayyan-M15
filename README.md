@@ -44,13 +44,13 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-M15&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-M15&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-M15&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-M15&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/rayyan-rasool-mir)
-- [X / Twitter](https://x.com/rayyanrasoolmir)
+- [LinkedIn (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin) ](https://linkedin.com/in/rayyan-rasool-mir)
+- [X / Twitter (https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
