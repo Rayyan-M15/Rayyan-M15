@@ -52,5 +52,6 @@
 
 ## Connect With Me
 
-- [![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rayyan-rasool-mir)
-- [![X / Twitter] (https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rayyan-rasool-mir)
+
+[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
