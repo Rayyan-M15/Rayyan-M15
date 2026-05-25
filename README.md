@@ -1,4 +1,4 @@
-# Hey, I'm Ray 👋
+# Hey, I'm Rayyan Rasool Mir 👋
 
 ## About Me
 - B.Tech CSE Student
@@ -52,5 +52,5 @@
 
 ## Connect With Me
 
-- [LinkedIn (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin) ](https://linkedin.com/in/rayyan-rasool-mir)
-- [X / Twitter (https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
+- [![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rayyan-rasool-mir)
+- [![X / Twitter] (https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
