@@ -1,57 +1,21 @@
-# Hey, I'm Rayyan Rasool Mir 👋
+# 💫 About Me:
+B.Tech CSE student focused on:<br>- Data Structures & Algorithms<br>- Full Stack Web Development<br>- Open Source<br>- Scalable Software Systems
 
-## About Me
-- B.Tech CSE Student
-- Learning DSA & Web Dev
-- Building projects and open-source skills
-- Interested in FinTech & scalable systems
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-rasool-mir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rayyanrasoolmir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyanrasoolmir@gmail.com) 
 
-## Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rayyan-M15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rayyan-M15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rayyan-M15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Languages
-- C++
-- JavaScript
-- SQL
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Web Development
-- React.js
-- Node.js
-- Express.js
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Tools
-- Git & GitHub
-- VS Code
-
----
-
-## Current Focus
-- Competitive Programming
-- Full Stack Development
-- Open Source
-- Building Internship-Ready Projects
-
----
-
-## Goals for 2026
-- Crack top internships
-- Build strong GitHub profile
-- Contribute to open source
-- Build scalable projects
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-M15&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-M15&layout=compact&theme=tokyonight)
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rayyan-rasool-mir)
-
-[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/rayyanrasoolmir)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
