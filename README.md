@@ -1,28 +1,134 @@
-# 💫 About Me:
-B.Tech CSE student focused on:<br>- Data Structures & Algorithms<br>- Full Stack Web Development<br>- Open Source<br>- Scalable Software Systems
+<div align="center">
 
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-rasool-mir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rayyanrasoolmir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyanrasoolmir@gmail.com) 
+# Hey, I'm Rayyan 👋
+### C++ • DSA • Full-Stack Web Development
 
----
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+DSA+%7C+Full-Stack+Web+Development;Open+Source+Learner;Building+Projects+and+Growing+Every+Day" />
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rayyan-M15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rayyan-M15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rayyan-M15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Rayyan-M15&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Rayyan-M15&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
 
+  <a href="https://github.com/Rayyan-M15?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rayyan-M15?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
----
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 B.Tech CSE Student
+- 💻 Focused on **DSA, Full-Stack Development, and Open Source**
+- 📈 Consistently improving problem-solving and development skills
+- 🌱 Currently learning deeper concepts in backend development and software engineering
+- 🎯 Goal: Become a strong software engineer and crack top internships/opportunities
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rayyan-rasool-mir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/rayyanrasoolmir" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:rayyanrasoolmir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql" />
+</p>
+
+## Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📚 Current Focus
+
+- Solving DSA consistently
+- Building full-stack projects
+- Learning backend development
+- Contributing to open source
+- Preparing for internships
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayyan-M15&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-M15&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Rayyan-M15&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-M15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🧠 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/RayyanRasoolMir/">
+  <img src="https://leetcard.jacoblin.cool/RayyanRasoolMir?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/rayyanrasoolmir">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
+---
+
+# 📌 Upcoming Projects
+
+- Full Stack Productivity App
+- Portfolio Website
+- Open Source Contributions
+- DSA Repository
+- Backend Practice Projects
+
+---
+
+# ⚡ Goals For 2026
+
+- Land strong internships
+- Improve DSA and contest ratings
+- Build impactful full-stack projects
+- Contribute to open source consistently
+- Grow as a software engineer every day
+
+---
+
+<div align="center">
+
+### “Consistency compounds.”
+
+</div>
